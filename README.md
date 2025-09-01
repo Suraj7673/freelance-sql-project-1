@@ -1,12 +1,12 @@
-# freelance-sql-project-1
+#Data Engineering sql-project-1
 Sales analysis using PostgreSQL - monthly, daily, customer-based metrics
-# Freelance SQL Project 1 - Sales Data Analysis
+#  SQL Project 1 - Sales Data Analysis
 
-📊 A real-world SQL project based on a freelance-style client request to analyze customer and sales data from a PostgreSQL database.
+ A real-world SQL project based on a freelance-style client request to analyze customer and sales data from a PostgreSQL database.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project simulates a client request where you're asked to:
 - Analyze customer signups and sales
@@ -18,7 +18,7 @@ All SQL queries were written and executed using **PostgreSQL** and **DBeaver**.
 
 ---
 
-## 📁 Database Structure
+##  Database Structure
 
 ### 1. `customers` table
 | Column       | Type         | Description           |
@@ -38,7 +38,7 @@ All SQL queries were written and executed using **PostgreSQL** and **DBeaver**.
 
 ---
 
-## 🧠 Key SQL Concepts Used
+##  Key SQL Concepts Used
 - `JOIN`s (to combine customer and sales data)
 - Aggregations (`SUM`, `COUNT`)
 - `GROUP BY` and `ORDER BY`
@@ -47,7 +47,7 @@ All SQL queries were written and executed using **PostgreSQL** and **DBeaver**.
 
 ---
 
-## 📈 Insights Generated
+##  Insights Generated
 - Total sales per month
 - Daily revenue trends
 - Top customers by revenue
@@ -55,16 +55,16 @@ All SQL queries were written and executed using **PostgreSQL** and **DBeaver**.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **PostgreSQL** – as the SQL database engine
 - **DBeaver** – for running and visualizing SQL queries
 - **Git** – for version control
 
 ---
 
-## 📂 How to Run
+##  How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/freelance-sql-project-1.git
+   git clone https://github.com/your-username/Data Engineering-sql-project-1.git
 
 
